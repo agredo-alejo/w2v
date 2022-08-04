@@ -1,0 +1,52 @@
+{
+    "colores": [
+        {
+            "color": "blue",
+            "value": [
+                0,
+                0,
+                255
+            ]
+        },
+        {
+            "color": "red",
+            "value": [
+                255,
+                0,
+                0
+            ]
+        },
+        {
+            "color": "green",
+            "value": [
+                0,
+                255,
+                0
+            ]
+        },
+        {
+            "color": "yellow",
+            "value": [
+                0,
+                255,
+                255
+            ]
+        },
+        {
+            "color": "black",
+            "value": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "color": "white",
+            "value": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}
